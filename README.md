@@ -42,14 +42,14 @@ L’objectif est de mener une **analyse exploratoire** sur un jeu de données é
 - Création d’une **présentation claire et concise**.
 
 ## 📦 Livrables Attendus
-✅ Un **notebook Jupyter** avec toutes les étapes d’analyse.
-✅ Un **dataframe nettoyé** et structuré.
-✅ Des **visualisations et graphiques** illustrant les tendances.
-✅ Une **présentation synthétique** des résultats et recommandations.
+- ✅ Un **notebook Jupyter** avec toutes les étapes d’analyse.
+- ✅ Un **dataframe nettoyé** et structuré.
+- ✅ Des **visualisations et graphiques** illustrant les tendances.
+- ✅ Une **présentation synthétique** des résultats et recommandations.
 
 ## 🚀 Objectif Final
 Fournir une **analyse approfondie** pour aider academy à prendre des décisions stratégiques basées sur les **données éducatives mondiales**.
 
 ---
-👥 **Compétences requises** : Python, Pandas, Analyse de données, Visualisation.
-🌍 **Sources des données** : Banque Mondiale.
+- 👥 **Compétences requises** : Python, Pandas, Analyse de données, Visualisation.
+- 🌍 **Sources des données** : Banque Mondiale.
